@@ -3,6 +3,8 @@
 Graphic Designer based in Berlin, Germany. 
 
 - I’m currently learning more about Web Development
+- Interested in anything design related
+
 
 	![Thats me](./1672071743231.jpg)
 
