@@ -2,7 +2,9 @@
 
 Graphic Designer based in Berlin, Germany. 
 
-- I’m currently learning more about Web Development 
+- I’m currently learning more about Web Development
+
+	![Thats me](./1672071743231.jpg)
 
 <!--
 **emilyraspe/emilyraspe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
