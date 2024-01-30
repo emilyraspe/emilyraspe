@@ -1,11 +1,8 @@
-# Hi! I'm Emily 👋
-
+# <img src="https://www.icegif.com/wp-content/uploads/2022/08/icegif-839.gif" width=60px> Hi! I'm Emily 
 Graphic Designer based in Berlin, Germany. 
 
 - 💻 I’m currently learning more about Web Development
 - 🎨 Interested in anything design related
-
-![little sun](https://www.icegif.com/wp-content/uploads/2022/08/icegif-839.gif)
 
 <!--
 **emilyraspe/emilyraspe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
