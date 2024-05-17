@@ -1,7 +1,7 @@
 # <img src="https://www.icegif.com/wp-content/uploads/2022/08/icegif-839.gif" width=60px> Hi! I'm Emily 
 Graphic Designer & Web Developer based in Berlin, Germany. 
 
-I'm a web enthusiast with a background in web design. I recently finished up a web development course and now I'm diving deeper into programming. I'm comfortable with HTML, CSS, and JavaScript, and React. Currently, I'm focusing on learning TypeScript to level up my skills.
+I'm a web enthusiast with a background in web design. I recently finished up a web development course and now I'm diving deeper into programming. I'm comfortable with HTML, CSS, JavaScript, and React. Currently, I'm focusing on learning TypeScript to level up my skills.
 
 <!--
 **emilyraspe/emilyraspe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
